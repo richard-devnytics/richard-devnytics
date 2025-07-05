@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rich Hard!
+# 👋 Hi, I’m Richard!
 
 **Tech Educator | Entry-Level Data Analyst | Web Developer | ML Enthusiast**
 
