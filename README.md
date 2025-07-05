@@ -27,7 +27,10 @@
 ### 📁 Featured Projects (Coming Soon)
 
 - 📊 **Data Case Study** – [Link placeholder]  
-- 🌐 **Web App in Native PHP** – [Link placeholder]  
+- 🌐 **Web App in Native PHP** –
+- - 🔗 [trisikel.com](http://trisikel.com) – Motorcycle taxi web app for local transport  
+- 🔗 [tueogan.com](http://tueogan.com) – BoardingHouse Finder Web app with map, chat and online payment integration
+- 🔗 [panakayon.com](http://panakayon.com) – Lightweight logistics app for barangay delivery and tricycle booking
 - 🧠 **ML Classification Demo** – [Link placeholder]
 
 ---
