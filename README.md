@@ -24,7 +24,7 @@
 
 ---
 
-### 📁 Featured Projects (Coming Soon)
+### 📁 Featured Projects (Existing and Coming Soon)
 
 - 📊 **Data Case Study** – [Link placeholder]  
 - 🌐 **Web App in Native PHP** –
